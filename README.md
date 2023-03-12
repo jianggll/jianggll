@@ -1,8 +1,7 @@
 - Hi, I’m @jianggll
 - I’m interested in programing, anime.
-- I am good at c.
-- I’m currently learning python.
-- My email is jianggl6827@gmail.com
+- I am good at c and linux.
+- I’m currently learning data structure.
 
 <!---
 jianggll/jianggll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
